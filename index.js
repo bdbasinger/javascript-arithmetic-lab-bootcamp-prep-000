@@ -22,7 +22,19 @@ function dec(n) {
   return n -= 1 
 }
 
-console.log(10/3)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
